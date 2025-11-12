@@ -81,8 +81,4 @@ For each model, the notebook computes:
 - F1-score  
 - Confusion matrix visualization  
 
-Example cell includes:
 
-```python
-accuracy_log_reg, accuracy_decision_tree, accuracy_random_forest,
-accuracy_gradient_boosting, accuracy_svc
